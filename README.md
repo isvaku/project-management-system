@@ -1,2 +1,2 @@
 # project-management-system
-This is a project management system build with GrapQL, Express, MongoDB, React, and Apollo.
+This is a project management system build with GraphQL, Express, MongoDB, React, and Apollo.
